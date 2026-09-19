@@ -9,10 +9,10 @@ windowSize:            800px,520px
 strings:
     productName:         Ubuntu
     shortProductName:    Ubuntu
-    version:             @VERSION@
-    shortVersion:        @CODENAME@
-    versionedName:       Ubuntu @VERSION@ LTS
-    shortVersionedName:  Ubuntu @VERSION@ LTS
+    version:             26.04
+    shortVersion:        resolute
+    versionedName:       Ubuntu 26.04 LTS
+    shortVersionedName:  Ubuntu 26.04 LTS
     bootloaderEntryName: Ubuntu
     productUrl:          https://ubuntu.com/
 
